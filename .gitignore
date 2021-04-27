@@ -1,0 +1,14 @@
+.cache/
+.gnupg/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Public/
+snap/
+Templates/
+*/
+
+.bash_history
+.bash_logout
